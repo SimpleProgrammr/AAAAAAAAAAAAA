@@ -1,0 +1,1 @@
+E:\Szkoła\Informatyka\C#\MauiTutorial\MauiTutorial.csproj;x64

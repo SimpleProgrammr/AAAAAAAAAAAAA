@@ -992,3 +992,4 @@ E:\Szkoła\Informatyka\C#\MauiTutorial\obj\Debug\net8.0-android\android\src\mono
 E:\Szkoła\Informatyka\C#\MauiTutorial\obj\Debug\net8.0-android\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEditTextAttachedListenerImplementor.java
 E:\Szkoła\Informatyka\C#\MauiTutorial\obj\Debug\net8.0-android\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
 E:\Szkoła\Informatyka\C#\MauiTutorial\obj\Debug\net8.0-android\android\src\mono\MonoPackageManager_Resources.java
+E:\Szkoła\Informatyka\C#\MauiTutorial\obj\Debug\net8.0-android\MauiTutorial.sourcelink.json
